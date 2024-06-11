@@ -1,0 +1,433 @@
+.color {
+    background-color: #ceab6f;
+}
+
+#home {
+    color: white;
+    padding: 10px;
+    padding-left: 50px;
+}
+
+#text {
+    color: white;
+    padding: 10px;
+}
+
+#marker-icon {
+    padding: 10px;
+    padding-right: 15px;
+}
+
+#number {
+    text-decoration: none;
+    color: #bc8a32;
+    padding: 10px;
+    padding-left: 100px;
+}
+
+#number:hover {
+    color: #5E4519;
+    transition: all .5s ease-in-out;
+}
+
+#phone-icon {
+    padding-right: 15px;
+}
+
+.info {
+    padding: 20px;
+    background-color: burlywood;
+}
+
+#clock-icon {
+    padding: 5px;
+    padding-right: 10px;
+}
+
+#social-icon {
+    padding: 10px;
+    padding-right: 5px;
+}
+
+#social-icon-mobile {
+    margin-top: -45px;
+    padding-right: 65px;
+}
+
+#nav-bar {
+    background-color: white;
+    width: 100%;
+}
+
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    z-index: 1030;
+}
+
+#one:hover {
+    color: white;
+}
+
+#two:hover {
+    color: rgba(0, 0, 0, 0.547);
+}
+
+#three:hover {
+    color: white;
+}
+
+#color {
+    background-color: #ceab6f;
+}
+
+.title {
+    text-align: center;
+    color: rgba(52, 52, 52);
+    padding: 10px;
+    position: relative;
+}
+
+.per-ne {
+    padding: 10px;
+}
+
+.biografia {
+    padding: 10px;
+}
+
+.themeluesi {
+    padding: 10px;
+}
+
+.vc_btn3.vc_btn3-color-juicy-pink,
+.vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat {
+    text-decoration: none;
+    color: #fff;
+    background-color: #bc8a32;
+}
+
+.vc_btn3.vc_btn3-size-md {
+    font-size: 14px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+
+.kontributet {
+    text-align: center;
+    padding: 15px;
+}
+
+.paragraf {
+    text-align: center;
+    color: rgb(143, 142, 142);
+    padding: 10px;
+}
+
+.fondacionet {
+    text-align: center;
+}
+
+.studio {
+    text-align: center;
+    border: 1px;
+    padding: 25px;
+}
+
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern {
+    text-decoration: none;
+    color: #666;
+    border-color: #ebebeb;
+    background-color: #ebebeb;
+}
+
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern:hover {
+    background-color: #ebebebc3;
+    transition: all .5s ease-in-out;
+}
+
+.te-gjitha-kontributet {
+    text-align: center;
+}
+
+.lajmet {
+    text-align: center;
+}
+
+.pjesa {
+    padding: 20px;
+}
+
+.pjesa-ll {
+    padding: 20px;
+}
+
+.border {
+    background-color: #ceab6f;
+    padding: 13px;
+}
+
+.kontributet-boarder {
+    background-color: #ceab6f;
+    padding: 20px;
+    margin-top: -5px;
+}
+
+.second_border {
+    border: 1px solid;
+    background-color: rgba(1, 18, 22, 0.716);
+}
+
+.text {
+    color: white;
+}
+
+#footer {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#client-testimonial-carousel {
+    min-height: 200px;
+}
+
+#client-testimonial-carousel {
+    animation-delay: 5s;
+}
+
+.buttonwhite {
+    color: #FFF;
+    border: 3px solid #FFF;
+    font-size: 14px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#decoration {
+    text-decoration: none;
+}
+
+#decoration:hover {
+    color: #ceab6f;
+    background-color: #FFF;
+    transition: all .5s ease-in-out;
+}
+
+.secondfooter {
+    background-color: rgba(0, 0, 0, 0.696);
+    text-align: center;
+    padding: 20px;
+}
+
+.change {
+    color: white;
+    padding: 10px;
+}
+
+#komente {
+    color: white;
+}
+
+#secondfooterlinks {
+    text-decoration: none;
+    color: #bc8a32;
+}
+
+#secondfooterlinks:hover {
+    color: #d0ad6f;
+    transition: all .5s ease-in-out;
+}
+
+hr {
+    width: 50px;
+    height: 3px;
+    margin: 30px auto;
+    border: 0;
+    position: relative;
+    padding: 0.7px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+.color-l {
+    background-color: #FFF;
+    padding: 25px;
+}
+
+.vlera {
+    padding: 5px;
+}
+
+.color-lll {
+    background-color: #ebebeb;
+    padding: 25px;
+}
+
+#komente {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 480px) {
+    .p {
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    #p {
+        font-size: 12px;
+        line-height: 1.5;
+    }
+
+    .section-content {
+        font-size: 12px;
+    }
+}
+
+.content {
+    background-image: url("https://fondacionibehgjetpacolli.org/wp-content/uploads/2021/12/bashkohu-me-ne-1.jpg");
+    filter: brightness(60%);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 60px;
+}
+
+#bashkohu {
+    text-decoration: none;
+    color: white;
+    border: 3px solid #FFF;
+    font-size: 14px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#text-cover {
+    padding: 10px;
+}
+
+#bashkohu:hover {
+    color: #bc8a32;
+    background-color: white;
+    transition: all .5s ease-in-out;
+}
+
+#info {
+    padding: 15px;
+}
+
+#lexo-me-shume:hover {
+    background-color: #ceab6f;
+    transition: all .5s ease-in-out;
+}
+
+.carosel-title {
+    text-align: center;
+    padding: 10px;
+}
+
+.last-footer {
+    background-color: #5e4519e6;
+}
+
+#copyright {
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
+#f-color {
+    text-decoration: none;
+    color: #bc8a32;
+}
+
+#f-color:hover {
+    color: #5E4519;
+    transition: all .5s ease-in-out;
+}
+
+#social-icons-footer {
+    padding-right: 30px;
+}
+
+/* @media only screen and (min-width:1024px){
+
+        .menu_text { display: block; }
+        .menu_icon { display: none; }
+
+    } */
+/* @media only screen and (max-width:767px){
+    #social-icon{
+        margin-left: -80px;
+    }
+       
+
+}  */
+.lajme-title {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
+
+.kontributet-title {
+    text-align: center;
+    padding: 10px;
+}
+
+.sponzorizimet-title {
+    text-align: center;
+    padding: 10px;
+}
+
+.list {
+    border: 3px;
+    background-color: #bc8a32;
+    color: white;
+    padding: 3px;
+}
+
+.list:hover {
+    color: #666;
+    background-color: #ebebeb;
+    transition: all .5s ease-in-out;
+}
+
+.list-primary {
+    border: 3px;
+    color: #666;
+    background-color: #ebebeb;
+    padding: 3px;
+}
+.kontakt-title{
+    text-align: center;
+}
+/* Change Selection Text Color When Highlighting */ 
+::-moz-selection { background-color: #bc8a32; 
+    color: #fff; } 
+    ::selection { background-color: #bc8a32; 
+    color: #fff; }
